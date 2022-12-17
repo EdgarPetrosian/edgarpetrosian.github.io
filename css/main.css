@@ -67,11 +67,10 @@ body {
     color: rgb(75, 75, 75);
 }
 
-#me_info h4 {
+#more_info p {
     color: rgb(142, 142, 142);
-    margin-top: 20px;
-    margin-bottom: 10px;
     font-size: 15px;
+    line-height: 20px;
 }
 
 .soc {
