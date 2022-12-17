@@ -67,12 +67,11 @@ body {
     color: rgb(75, 75, 75);
 }
 
-#me_info h3 {
-    color:rgb(75, 75, 75);
-    text-transform: capitalize;
+#me_info h4 {
+    color: rgb(75, 75, 75);
     margin-top: 20px;
     margin-bottom: 10px;
-    font-family: cursive;
+    font-size: 15px;
 }
 
 .soc {
