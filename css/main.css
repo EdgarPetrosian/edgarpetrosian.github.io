@@ -78,7 +78,7 @@ body {
 .soc {
     display: flex;
     width: 300px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .soc a {
